@@ -1,0 +1,38 @@
+[
+    {
+      "price": 1980,
+      "id": 1,
+      "title": "Remera Hello Kitty",
+      "thumbnailUrl": "/images/RemeraHelloKitty.jpeg"
+    },
+    {
+      "price": 1999,
+      "id": 2,
+      "title": "Remera Squid Game",
+      "thumbnailUrl": "/images/RemeraSquidGame.jpeg"
+    },
+    {
+      "price": 968,
+      "id": 3,
+      "title": "Piluso Barderos",
+      "thumbnailUrl": "/images/PilusoBarderos.jpeg"
+    },
+    {
+      "price": 999,
+      "id": 4,
+      "title": "Remera Animal Love",
+      "thumbnailUrl": "/images/RemeraAnimalLove.jpeg"
+    },
+    {
+      "price": 968,
+      "id": 5,
+      "title": "Piluso Bad Habits",
+      "thumbnailUrl": "/images/PilusoBadHabits.jpeg"
+    },
+    {
+      "price": 3960,
+      "id": 6,
+      "title": "Buzo Bart Japanese",
+      "thumbnailUrl": "/images/BuzoBartJapanese.jpeg"
+    }
+  ]
