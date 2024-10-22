@@ -1,0 +1,103 @@
+/** GENERAL **/
+.container-fluid{
+    padding: 0px !important;
+    font-family: 'Oswald', sans-serif;
+}
+/** END GENERAL **/
+
+/** DIV AD **/
+#ad{
+    display: none;
+}
+
+#ad p{
+    margin: 10px;
+}
+/** END DIV AD **/
+
+/** NAV **/
+nav{
+    display: none;
+}
+
+.nav-fixed{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    z-index:1000;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+	top:0;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+}
+
+.nav__section ul{
+    display: flex; 
+    margin: 10px;
+    padding: 0px;
+}
+
+.nav-li{
+    list-style: none;
+    margin: 10px;
+}
+
+.nav-li a{
+    color: #a556da;
+    text-decoration: none;
+    font-size: 2.3vh;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+}
+/** END NAV **/
+
+/** LOGO **/
+#logo{
+    display: flex;
+    justify-content: center;
+}
+
+/** END LOGO **/
+
+/** CARD **/
+.card{
+    height: 100%;
+}
+
+.card-img-top{
+    height: 80%;
+}
+
+.btn-dark {
+    color: #a556da !important;
+}
+/** END CARD **/
+
+/** FOOTER **/
+footer section{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    padding: 5%;
+}
+
+.contact{
+    font-weight: 400;
+    margin: 0px;
+}
+
+footer section article{
+    width: 25%;
+}
+
+.footer-img{
+    width: 15%;
+    height: 15%;
+}
+
+i{
+    width: 15%;
+    height: 15%;
+}
+/** END FOOTER **/

@@ -1,0 +1,2 @@
+const fragment = document.createDocumentFragment();
+
