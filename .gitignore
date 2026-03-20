@@ -1,0 +1,28 @@
+# Secretos y variables de entorno
+.env
+*.env
+!*.env.example
+
+# Spring - archivos de configuración con credenciales
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# Compilados Java/Kotlin
+**/target/
+**/.gradle/
+**/build/
+**/*.class
+**/*.jar
+**/*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
